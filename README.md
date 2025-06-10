@@ -1,2 +1,2 @@
 # Whispers-of-grace
-Charity 
+Ai powered Charity 
